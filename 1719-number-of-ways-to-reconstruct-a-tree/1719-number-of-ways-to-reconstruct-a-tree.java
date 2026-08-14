@@ -1,68 +1,54 @@
 class Solution {
     public int checkWays(int[][] pairs) {
-        System.out.println(pairs.length);
-        HashMap<Integer, Set<Integer>> map = new HashMap<>();
-        HashMap<Integer, Integer> prt = new HashMap<>();
-        sum = 0;
+        int result = 1;
         
-        for(int[] pair:pairs){
-            if(!map.containsKey(pair[0])){
-                map.put(pair[0], new HashSet<>());
-                prt.put(pair[0], pair[0]);
-            }
-            if(!map.containsKey(pair[1])){
-                map.put(pair[1], new HashSet<>());
-                prt.put(pair[1], pair[1]);
-            }
-            map.get(pair[0]).add(pair[1]);
-            map.get(pair[1]).add(pair[0]);
-        }
-
-        HashMap<Integer, ArrayList<Integer>> adj = new HashMap<>();
-        int root = -1;
-        while(!map.isEmpty()){
-            int ele = -1;
-            int sz = -1;
-            for(int ky: map.keySet()){
-                if(sz < map.get(ky).size()){
-                    sz = map.get(ky).size();
-                    ele = ky;
-                }
-            }
-            if(root == -1) {
-                root = ele;
-                if(sz != prt.size()-1) return 0;
-            }
-            
-            if(!adj.containsKey(ele)) adj.put(ele, new ArrayList<>());
-            if(ele != prt.get(ele)){
-                adj.get(prt.get(ele)).add(ele);
-            }
-
-            for(int num: map.get(ele)){
-                prt.replace(num, ele);
-                map.get(num).remove(ele);
-            }
-
-            map.remove(ele);
-        }
-
-        validity(adj, root, 0);
-        if(sum != pairs.length) return 0;
-        
-        for(ArrayList<Integer> ele: adj.values()){
-            if(ele.size() == 1) return 2;
+        //Create adjacency list
+        Map<Integer, Set<Integer>> edges = new HashMap<>();
+        for (int[] pair: pairs) {
+            edges.computeIfAbsent(pair[0], x->new HashSet<>()).add(pair[0]);
+            edges.computeIfAbsent(pair[1], x->new HashSet<>()).add(pair[1]);
+            edges.get(pair[0]).add(pair[1]);
+            edges.get(pair[1]).add(pair[0]);
         }
         
-        return 1;
+        //Sort the edge lists based on their size
+        List<Map.Entry<Integer, Set<Integer>>> edgesList = new ArrayList(edges.entrySet());
+        Collections.sort(edgesList, (a,b)-> b.getValue().size() - a.getValue().size());
+        
+        List<Map.Entry<Integer, Set<Integer>>> previous = new ArrayList<>();
+        
+		// Now from each of the edges find the ways to create the tree
+		for (Map.Entry<Integer, Set<Integer>> cur: edgesList) {
+            //get the current edge set
+			Set<Integer> currentSet = cur.getValue();
+            //find the parent for the current set from the previously computed edge
+			Map.Entry<Integer, Set<Integer>> parent = find(previous, currentSet);
+            // if the parent is null
+			if (parent==null) {
+                // if you the current set do not match with the edges size then there is no way, return 0
+				if (currentSet.size() != edges.size())
+                    return 0;
+            } else {
+                Set<Integer> parentSet = parent.getValue();
+                // if the current set do not contain everything from the parent then also return 0
+				if (!parentSet.containsAll(currentSet)) return 0;
+                // if the parent contains everything from the current set then return more than one ways
+				if (parentSet.equals(currentSet)) result = 2;
+            }
+            // add the computed edge to previous list
+            previous.add(cur);
+        }
+		
+		// only one way
+        return result;
     }
-    
-    int sum;
-    public void validity(HashMap<Integer, ArrayList<Integer>> map, int node, int cnt){
-        for(int nxt: map.get(node)){
-            validity(map, nxt, cnt+1);
+	
+	Map.Entry<Integer, Set<Integer>> find(List<Map.Entry<Integer, Set<Integer>>> previous, Set<Integer> currentSet) {
+        int i=previous.size()-1;
+        while (i>=0) {
+            Map.Entry<Integer, Set<Integer>> entry = previous.get(i--);
+            if (currentSet.contains(entry.getKey())) return entry;
         }
-        
-        sum += cnt;
+        return null;
     }
 }
