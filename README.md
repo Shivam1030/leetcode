@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shivam1030/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivam1030/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Recursion
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shivam1030/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Shivam1030/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Shivam1030/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Shivam1030/leetcode/tree/master/0010-regular-expression-matching) |
@@ -92,5 +94,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shivam1030/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shivam1030/leetcode/tree/master/0010-regular-expression-matching) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shivam1030/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
