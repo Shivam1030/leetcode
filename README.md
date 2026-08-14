@@ -72,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/Shivam1030/leetcode/tree/master/0850-rectangle-area-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
