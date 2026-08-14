@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Shivam1030/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Recursion
 |  |
 | ------- |
@@ -19,8 +20,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam1030/leetcode/tree/master/0001-two-sum) |
+| [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam1030/leetcode/tree/master/0001-two-sum) |
+| [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
+## Sorting
+|  |
+| ------- |
+| [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
+## Enumeration
+|  |
+| ------- |
+| [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 <!---LeetCode Topics End-->
