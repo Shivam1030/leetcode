@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam1030/leetcode/tree/master/0001-two-sum) |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam1030/leetcode/tree/master/0001-two-sum) |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Sorting
 |  |
@@ -45,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Shivam1030/leetcode/tree/master/0223-rectangle-area) |
+## Tree
+|  |
+| ------- |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+## Simulation
+|  |
+| ------- |
+| [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 <!---LeetCode Topics End-->
