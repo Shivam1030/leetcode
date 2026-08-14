@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/Shivam1030/leetcode/tree/master/0850-rectangle-area-ii) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
+| [2615-sum-of-distances](https://github.com/Shivam1030/leetcode/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam1030/leetcode/tree/master/0001-two-sum) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
+| [2615-sum-of-distances](https://github.com/Shivam1030/leetcode/tree/master/2615-sum-of-distances) |
 ## Sorting
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Shivam1030/leetcode/tree/master/0437-path-sum-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Shivam1030/leetcode/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
