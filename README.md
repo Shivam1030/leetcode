@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Shivam1030/leetcode/tree/master/0223-rectangle-area) |
+| [2652-sum-multiples](https://github.com/Shivam1030/leetcode/tree/master/2652-sum-multiples) |
 ## Geometry
 |  |
 | ------- |
