@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Shivam1030/leetcode/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Shivam1030/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
