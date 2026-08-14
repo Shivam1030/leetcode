@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shivam1030/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivam1030/leetcode/tree/master/0009-palindrome-number) |
 | [0223-rectangle-area](https://github.com/Shivam1030/leetcode/tree/master/0223-rectangle-area) |
 | [2652-sum-multiples](https://github.com/Shivam1030/leetcode/tree/master/2652-sum-multiples) |
