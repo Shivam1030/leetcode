@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivam1030/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shivam1030/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam1030/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Shivam1030/leetcode/tree/master/0437-path-sum-iii) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 ## Graph Theory
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Shivam1030/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shivam1030/leetcode/tree/master/0071-simplify-path) |
+| [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Shivam1030/leetcode/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam1030/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Shivam1030/leetcode/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivam1030/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shivam1030/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam1030/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Shivam1030/leetcode/tree/master/0437-path-sum-iii) |
 ## Prefix Sum
 |  |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shivam1030/leetcode/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
