@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shivam1030/leetcode/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam1030/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam1030/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shivam1030/leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam1030/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
