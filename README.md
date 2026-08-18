@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Shivam1030/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Shivam1030/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Shivam1030/leetcode/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam1030/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -172,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivam1030/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shivam1030/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivam1030/leetcode/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivam1030/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shivam1030/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam1030/leetcode/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
