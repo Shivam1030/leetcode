@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shivam1030/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shivam1030/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivam1030/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Shivam1030/leetcode/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam1030/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/Shivam1030/leetcode/tree/master/0223-rectangle-area) |
 | [2652-sum-multiples](https://github.com/Shivam1030/leetcode/tree/master/2652-sum-multiples) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivam1030/leetcode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Shivam1030/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
