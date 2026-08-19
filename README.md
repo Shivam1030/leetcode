@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam1030/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shivam1030/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shivam1030/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Shivam1030/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shivam1030/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Shivam1030/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Shivam1030/leetcode/tree/master/0125-valid-palindrome) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shivam1030/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shivam1030/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shivam1030/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Shivam1030/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1030/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam1030/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam1030/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shivam1030/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shivam1030/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shivam1030/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Shivam1030/leetcode/tree/master/0075-sort-colors) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Enumeration
 |  |
@@ -317,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Shivam1030/leetcode/tree/master/0051-n-queens) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivam1030/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivam1030/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
