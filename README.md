@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shivam1030/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivam1030/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam1030/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam1030/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Shivam1030/leetcode/tree/master/0437-path-sum-iii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam1030/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shivam1030/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivam1030/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam1030/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam1030/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Shivam1030/leetcode/tree/master/0437-path-sum-iii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam1030/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shivam1030/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1030/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam1030/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam1030/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Queue
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shivam1030/leetcode/tree/master/0029-divide-two-integers) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam1030/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
