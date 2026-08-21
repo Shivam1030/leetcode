@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shivam1030/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shivam1030/leetcode/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivam1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0850-rectangle-area-ii](https://github.com/Shivam1030/leetcode/tree/master/0850-rectangle-area-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shivam1030/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam1030/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivam1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shivam1030/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shivam1030/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0229-majority-element-ii) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Enumeration
 |  |
@@ -361,10 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
