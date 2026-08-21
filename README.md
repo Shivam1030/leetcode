@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shivam1030/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shivam1030/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Shivam1030/leetcode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/Shivam1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0850-rectangle-area-ii](https://github.com/Shivam1030/leetcode/tree/master/0850-rectangle-area-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shivam1030/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shivam1030/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam1030/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Shivam1030/leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Shivam1030/leetcode/tree/master/0437-path-sum-iii) |
 ## Binary Tree
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam1030/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shivam1030/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Shivam1030/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Shivam1030/leetcode/tree/master/0200-number-of-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -350,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shivam1030/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shivam1030/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
