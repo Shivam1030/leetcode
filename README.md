@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam1030/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shivam1030/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Shivam1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shivam1030/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shivam1030/leetcode/tree/master/0242-valid-anagram) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Enumeration
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shivam1030/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Shivam1030/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Shivam1030/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shivam1030/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Shivam1030/leetcode/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivam1030/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
