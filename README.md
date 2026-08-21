@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shivam1030/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shivam1030/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Shivam1030/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Shivam1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0850-rectangle-area-ii](https://github.com/Shivam1030/leetcode/tree/master/0850-rectangle-area-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shivam1030/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Shivam1030/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2615-sum-of-distances](https://github.com/Shivam1030/leetcode/tree/master/2615-sum-of-distances) |
 ## Breadth-First Search
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Shivam1030/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Shivam1030/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam1030/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Shivam1030/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/Shivam1030/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Backtracking
 |  |
