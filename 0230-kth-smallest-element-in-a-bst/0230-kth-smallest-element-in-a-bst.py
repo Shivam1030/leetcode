@@ -1,14 +1,17 @@
 class Solution:
     def kthSmallest(self, root, k):
-        result = []
-        
+        self.count = 0
+        self.res = None
+
         def inorder(node):
-            if not node:
+            if not node or self.res:
                 return
             inorder(node.left)
-            result.append(node.val)
+            self.count += 1
+            if self.count == k:
+                self.res = node
+                return
             inorder(node.right)
-        
+
         inorder(root)
-        return result[k - 1]
-        
+        return self.res.val
