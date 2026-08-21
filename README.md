@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam1030/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Shivam1030/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Shivam1030/leetcode/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/Shivam1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0850-rectangle-area-ii](https://github.com/Shivam1030/leetcode/tree/master/0850-rectangle-area-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shivam1030/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam1030/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivam1030/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Shivam1030/leetcode/tree/master/0198-house-robber) |
 ## Manacher
 |  |
 | ------- |
