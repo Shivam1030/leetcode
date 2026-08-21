@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam1030/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivam1030/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Shivam1030/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Shivam1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shivam1030/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0850-rectangle-area-ii](https://github.com/Shivam1030/leetcode/tree/master/0850-rectangle-area-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivam1030/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam1030/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivam1030/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Shivam1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/Shivam1030/leetcode/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shivam1030/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shivam1030/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shivam1030/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 | [2122-recover-the-original-array](https://github.com/Shivam1030/leetcode/tree/master/2122-recover-the-original-array) |
 ## Enumeration
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam1030/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1030/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 ## Algorithm X
 |  |
 | ------- |
@@ -336,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivam1030/leetcode/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam1030/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
